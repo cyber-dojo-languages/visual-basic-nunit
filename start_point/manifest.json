@@ -7,6 +7,8 @@
     "cyber-dojo.sh"
   ],
 
+  "hidden_filenames": [ "TestResult.xml" ],
+
   "image_name": "cyberdojofoundation/visual-basic_nunit",
 
   "filename_extension": ".vb"
