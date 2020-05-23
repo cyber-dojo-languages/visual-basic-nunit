@@ -9,6 +9,5 @@
   ],
   "filename_extension": [ ".vb" ],
   "max_seconds": 10,
-  "tab_size": 4,
-  "hidden_filenames": [ "TestResult.xml" ]
+  "tab_size": 4
 }
