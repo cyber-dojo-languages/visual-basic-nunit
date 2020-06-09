@@ -1,6 +1,6 @@
 {
   "display_name": "VisualBasic, NUnit",
-  "image_name": "cyberdojofoundation/visual-basic_nunit",
+  "image_name": "cyberdojofoundation/visual_basic_nunit",
   "visible_filenames":
   [
     "HikerTest.vb",
