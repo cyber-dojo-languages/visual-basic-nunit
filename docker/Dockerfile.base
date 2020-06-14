@@ -1,4 +1,4 @@
-FROM cyberdojofoundation/visual-basic
+FROM cyberdojofoundation/visual-basic:bbd4041
 LABEL maintainer=jon@jaggersoft.com
 
 RUN apt-get install --yes nunit-console
