@@ -1,6 +1,6 @@
-[![CircleCI](https://circleci.com/gh/cyber-dojo-languages/visual-basic-nunit.svg?style=svg)](https://circleci.com/gh/cyber-dojo-languages/visual-basic-nunit)
+[![GitHub CI](../../actions/workflows/main.yml/badge.svg)](../../actions/workflows/main.yml)
 
-## display_name="VisualBasic, NUnit"
-## image_name="cyberdojofoundation/visual-basic_nunit"
+## display_name="VisualBasic 10.0.103, NUnit 4.3.2"
+## image_name="[ghcr.io/cyber-dojo-languages/visual_basic_nunit](https://ghcr.io/cyber-dojo-languages/visual_basic_nunit)"
 
 ![cyber-dojo.org home page](https://github.com/cyber-dojo/cyber-dojo/blob/master/shared/home_page_snapshot.png)

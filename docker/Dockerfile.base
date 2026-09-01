@@ -1,6 +1,6 @@
-FROM cyberdojofoundation/visual-basic:bbd4041
+FROM ghcr.io/cyber-dojo-languages/visual-basic:0a8c56c
 LABEL maintainer=jon@jaggersoft.com
 
-RUN apt-get install --yes nunit-console
-
-COPY red_amber_green.rb /usr/local/bin
+USER sandbox
+COPY . .
+RUN ./install.sh
