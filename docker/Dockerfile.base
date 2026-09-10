@@ -1,4 +1,4 @@
-FROM ghcr.io/cyber-dojo-languages/visual-basic:0a8c56c
+FROM ghcr.io/cyber-dojo-languages/visual-basic:8fbb264
 LABEL maintainer=jon@jaggersoft.com
 
 USER sandbox
